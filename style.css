@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Righteous&family=Roboto:wght@100;400;700&family=Sarala:wght@400;700&display=swap');
+
+body {
+    text-align: center;
+}
+
+header {
+    font-family: 'Bangers', cursive;
+    font-size: 20pt;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+input {
+    background-color: #b4b4b4;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+}
+
+input:hover {
+    background: #0091ff;
+}
